@@ -30,8 +30,6 @@ Eu sou desenvolvedor back-end com foco em Java. Atualmente estou estudante tecno
 <br />
 <br />
 
-### 📊 Stats
-
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=dougcunha1&show_icons=true&theme=synthwave)
 
 
